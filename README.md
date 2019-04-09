@@ -1,4 +1,4 @@
-# Passport-Tutorial
+# Passport-authentication
 
 Node.js authentication tutorial using Passport.js
 
@@ -35,8 +35,7 @@ npm start
 
 ## Authors
 
-* **Antonio Erdeljac** - *Initial work* - [Passport-Tutorial](https://github.com/AntonioErdeljac/Blog-Tutorial)
+* **Vijaychauhanssn** - *Initial work* - [Passport-Authentication](https://github.com/vijaychauhanssn/passport-authentication)
 
 ## Acknowledgments
 
-* This was a tutorial for my [Medium article](https://medium.com/p/4a56ed18e81e)
